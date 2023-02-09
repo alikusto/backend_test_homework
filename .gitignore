@@ -1,0 +1,7 @@
+#ignore file README.md
+README.md
+
+#ignore file .doc
+.doc
+.ini
+venv
